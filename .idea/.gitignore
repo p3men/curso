@@ -1,0 +1,8 @@
+# Default ignored files
+/../../tutorial./.idea/shelf/
+/../../tutorial./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../tutorial./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../tutorial./.idea/dataSources/
+/../../tutorial./.idea/dataSources.local.xml
